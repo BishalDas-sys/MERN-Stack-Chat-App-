@@ -1,6 +1,7 @@
 # Medical Pager Chat App
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
+![Chat Application ScreenShots]
+(https://ibb.co/wMtnjsJ)
 
 ## Introduction
 This is a code repository for the MERN Stack Chat app named as Medical Pager . 
