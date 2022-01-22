@@ -14,7 +14,7 @@ This is a code repository for the MERN Stack Chat app named as Medical Pager .
  I have create a full Realtime Chat Application. Here I  haved used
     -React on the front end
     -NodeJS on the back end
-    -and the entire chat is powered with https://gstrm.io/js-mastery.
+    -and the entire chat is powered with https://getstream.io/.
 
 Features:
   1. Realtime one-to-one chat
