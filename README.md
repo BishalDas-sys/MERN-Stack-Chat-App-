@@ -3,14 +3,24 @@
 ![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
+This is a code repository for the MERN Stack Chat app named as Medical Pager . 
 
-In this video, we will create a full Realtime Chat Application. We're going to use React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io/js-mastery.
+ I have create a full Realtime Chat Application. Here I  haved used
+    -React on the front end
+    -NodeJS on the back end
+    -and the entire chat is powered with https://gstrm.io/js-mastery.
 
-By the end of this video, you will be able to build any real-time chat application you can think of.
+Features:
+  1. Realtime one-to-one chat
+  2. Create/Delete Group
+  3. React on the messages
+  4. Save Contacts
+  5. Send Images
+  6. Built-in Gif Support
+  7. Edit/Delete Messages
+  8. Specialize Comment
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+Thank You 
